@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.exe
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.deps.json
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.runtimeconfig.json
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.runtimeconfig.dev.json
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.dll
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\ref\Sokodan.dll
+C:\Users\User\source\repos\Sokodan\Sokodan\bin\Debug\net5.0\Sokodan.pdb
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.AssemblyInfo.cs
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.dll
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\ref\Sokodan.dll
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.pdb
+C:\Users\User\source\repos\Sokodan\Sokodan\obj\Debug\net5.0\Sokodan.genruntimeconfig.cache
